@@ -1,6 +1,6 @@
 # exercise-tracker
 
-MERN exercise tracker app using MongoDB Atlas.
+MongoDB, Express.js, React.js and Node.js or better known as MERN stack exercise tracker app using MongoDB Atlas database.
 
 Initiate project: npm init 
 
